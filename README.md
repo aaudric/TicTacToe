@@ -15,3 +15,8 @@ Tic-Tac-Toe est un jeu très simple à deux joueurs. Ainsi, seuls deux joueurs p
 ## Condition gagnante
 
 Celui qui place trois marques respectives (X ou O) horizontalement verticalement ou en diagonale sera le gagnant.
+
+----------------------------------------------------------------
+
+
+Ceci est un projet personnel réalisé par moi-même Girondin Audric afin d'approfondir mes connaissances en Python.
